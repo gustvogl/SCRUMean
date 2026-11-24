@@ -138,6 +138,11 @@ Para padronizar o desenvolvimento da equipe e facilitar a demonstração do ambi
 3. Configurar o `docker-compose.yml` base para o ambiente de desenvolvimento da equipe.
 
 
+
+
+   
+
+
 # ⚠️ Critérios de Identificação de Riscos — Industrial Control Tower
 
 **Versão:** 1.0  
